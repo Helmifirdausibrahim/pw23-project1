@@ -583,16 +583,15 @@ margin-right: 3px;
   }
   .about-text h2 {
     font-size: 1.4rem;
-  .video iframe{
-    width: 220px;
-    height: 115px;
-  }
-  }
 }
 @media (max-width:607px) {
   .footer-container{
     display: grid;
     grid-template-columns: 1fr 1fr;
+  }
+  .video iframe{
+    width: 220px;
+    height: 115px;
   }
 }
 @media (max-width:360px){
