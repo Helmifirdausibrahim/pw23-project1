@@ -515,6 +515,12 @@ margin-right: 3px;
   .home-text h1{
     font-size: 2.1rem;
   }
+  .video{
+    flex-direction: column;
+  }
+  .video div{
+    text-align: center;
+  }
 } 
 @media (max-width: 920px){
   #search-icon{
